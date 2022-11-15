@@ -3,3 +3,4 @@
 - 🌱 We are actively hiring PhDs and master students. Please contact us if you are interested in our lab.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach us : feel free to drop us a letter via junxu@ruc.edu.cn.
+- :dizzy: Check [our website](https://ruc-iir-lab.github.io) for more information.
